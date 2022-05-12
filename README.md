@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Movies Site
+
+![Screenshot 2022-05-12 at 11 29 42 AM](https://user-images.githubusercontent.com/52341551/168002308-63ec13ab-82f5-4bd9-943f-fc6f72757c26.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
